@@ -1,3 +1,6 @@
--- DESCRIPTION --
+DESCRIPTION
+===========
 
-# This files contains my own system config and other bunch of stuff..
+# This files are my own config files, use for backup.
+
+nvim 0.9.1
